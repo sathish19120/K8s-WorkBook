@@ -78,3 +78,12 @@ week 19-20: Final project & Certification
   -- Automate infrastructure 
   -- Monitor & Secure
   -- Certification Preparation 
+
+
+
+linux fundamental:
+Linux is an open-source operating system.
+
+It's like Windows or macOS but free and customizable.
+
+Used widely in servers, development environments, and even Android.
