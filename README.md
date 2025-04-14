@@ -87,3 +87,39 @@ Linux is an open-source operating system.
 It's like Windows or macOS but free and customizable.
 
 Used widely in servers, development environments, and even Android.
+A file system is a method and data structure that the operating system uses to control how data is stored and retrieved.
+
+In Linux, popular file systems are:
+
+ext4 (most common for Linux)
+
+XFS
+
+Btrfs
+
+VFAT (for USB drives)
+
+NTFS (Windows drives, supported in Linux)
+
+The file system organizes files into a hierarchical tree structure of directories (folders)
+Linux Directory Structure (The Tree)
+In Linux, everything starts from the root directory, which is represented by /.
+/
+├── bin/        → Essential user binaries (commands like ls, cp)
+├── boot/       → Boot loader files (kernel, initrd)
+├── dev/        → Device files (hard drives, USB, etc.)
+├── etc/        → Configuration files
+├── home/       → User home directories (/home/username)
+├── lib/        → Essential libraries for binaries
+├── media/      → Mount point for removable media
+├── mnt/        → Temporary mount point
+├── opt/        → Optional add-on software
+├── proc/       → Virtual filesystem for system information
+├── root/       → Home directory of the root user
+├── run/        → Runtime data
+├── sbin/       → System binaries (for admin commands)
+├── tmp/        → Temporary files
+├── usr/        → User programs, utilities, libraries
+└── var/        → Variable data (logs, spool files)
+
+
