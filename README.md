@@ -123,4 +123,4 @@ In Linux, everything starts from the root directory, which is represented by /.
 └── var/        → Variable data (logs, spool files)
 
 Directories
-Packages
+Package
