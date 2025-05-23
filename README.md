@@ -124,3 +124,4 @@ In Linux, everything starts from the root directory, which is represented by /.
 
 Directories
 Package
+Kube8 nodes
