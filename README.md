@@ -16,7 +16,8 @@ Process Management :
    -- ps, top,htop,kill,jobs,bg,fg
 Networking basics:
   -- IP, TCP/UDP,DNS,HTTPs
-  --Ping,netstat,Telnet,Traceroute 
+  --Ping,netstat,Telnet,Traceroute /
+  
 Week 3-4  : Version Control (Git & Github)
    -- Installation & setup
    -- Git workflow (Clone,add ,commit, push, pull, merge)
